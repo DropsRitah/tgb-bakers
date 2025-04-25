@@ -68,8 +68,8 @@ export default function ContactPage() {
             <CardDescription>Speak directly with our team</CardDescription>
           </CardHeader>
           <CardContent className="text-center">
-            <a href="tel:0111863355 / 0114007130" className="text-amber-600 hover:underline">
-              0111863355 / 0114007130
+            <a href="tel:0111863355 " className="text-amber-600 hover:underline">
+              0111863355 
             </a>
           </CardContent>
         </Card>
