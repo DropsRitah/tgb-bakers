@@ -254,12 +254,12 @@ const products = [
     image: "/images/far-far.jpg",
   },
   {
-    id: "mini-lose-box",
-    name: "Mini Lose Box Cookies (1kg)",
+    id: "mini-loose-box",
+    name: "Mini Loose Box Cookies (1kg)",
     category: "cookies",
     description:
-      "Our Mini Lose Box Cookies come in a convenient 1kg package with mixed assorted colors or plain . These small, bite-sized cookies are perfect for serving at events, parties, or keeping as a sweet treat at home or office. They're very convinient for self packagng for retailers.",
-    image: "/images/assorted.jpg",
+      "Our Mini Loose Box Cookies come in a convenient 1kg package with mixed assorted colors or plain . These small, bite-sized cookies are perfect for serving at events, parties, or keeping as a sweet treat at home or office. They're very convinient for self packagng for retailers.",
+    image: "/images/Assorted.jpg",
   },
 ]
 
